@@ -2,13 +2,12 @@
 
 > 📘 A clean, organized reference for vulnerability cheatsheets, lab writeups, and ethical hacking best practices.
 
-![License](https://img.shields.io/github/license/YOUR_USERNAME/vuln-cheatsheets-labs)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/vuln-cheatsheets-labs?style=social)
+![License](https://img.shields.io/github/license/0x-esso/vuln-cheatsheets-labs)
+![Stars](https://img.shields.io/github/stars/0x_esso/vuln-cheatsheets-labs?style=social)
 
 ## 📑 Quick Navigation
 - [📘 Cheatsheets](CHEATSHEETS/)
 - [🧪 Lab Solutions](LABS/)
-- [🛠️ Tools & References](RESOURCES/)
 - [🤝 How to Contribute](#contribution)
 - [⚠️ Ethical Disclaimer](#ethical-disclaimer)
 
